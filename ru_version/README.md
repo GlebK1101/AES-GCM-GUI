@@ -92,7 +92,7 @@
 ### Настройка
 1.  Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/GlebK1101/AES-GCM.git
+    git clone https://github.com/GlebK1101/AES-GCM-GUI.git
     cd AES-GCM
     ```
 2.  Установите зависимости:
