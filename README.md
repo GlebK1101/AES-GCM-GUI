@@ -96,7 +96,7 @@ Irreversibly deletes files or folders.
 ### Setup
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/GlebK1101/AES-GCM.git
+    git clone https://github.com/GlebK1101/AES-GCM-GUI.git
     cd AES-GCM
     ```
 2.  Install dependencies:
